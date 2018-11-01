@@ -5,4 +5,4 @@
 
 <br>
 
-*WIP (Work in Progress): This project is under heavy construction. Please, use with caution.
+*WIP (Work in Progress): This project is under heavy construction. Please, use with caution.*
