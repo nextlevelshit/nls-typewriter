@@ -1,0 +1,11 @@
+{
+  "name": "nls-typewriter",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Czechowski <mail@dailysh.it>",
+  "license": "Apache-2.0"
+}
